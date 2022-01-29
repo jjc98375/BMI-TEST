@@ -1,0 +1,17 @@
+25 66 120 Jane North
+64 72 251 Tim South
+52 69 175 Linda East
+31 71 122 Paul West
+42 65 130 Mary Jane Doe
+19 71 150 Victor Smith
+22 67 135 Mary Johnson
+39 73 229 Tom Baker
+26 68 133 Diana Newman
+54 70 215 William Peterson
+28 68 143 Jim Gaddis
+42 67 115 Laura King
+33 71 162 Ann McDonald
+52 75 270 Peter Pan
+29 70 144 George Paul Lucas
+23 66 135 Monica T. Potter
+69 72 254 Andrew Davis
