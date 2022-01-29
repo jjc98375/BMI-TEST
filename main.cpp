@@ -1,7 +1,6 @@
 /*
- CIS 22B: Create and process an array of Patient objects with overloading operators.
- Name: Josh Cho
- IDE: VSC, Repl.it, zybooks text editor, online c++ compiler
+Program Description:
+This program made to determine their current BMI status based on their age, height, and weight. User put all the patient's information to one input file and submit it through the console. Then, it will automatically determine each patient's BMI status. 
 */
 
 #include "Patient.h"
@@ -188,39 +187,3 @@ void displayWeight(Patient list[], int size, string status)
   }
 }
 
-
-/* Outputs
-
-Please enter the input file's name: patient.txt
-
-Display "Underweight"[Y/N]? y
-Showing patients with the "Underweight" status:
-Paul West             31 years  71.00 inches  122 pounds Underweight
-Laura King            42 years  67.00 inches  115 pounds Underweight
-
-Display "Overweight"[Y/N]? y
-Showing patients with the "Overweight" status:
-Linda East            52 years  69.00 inches  175 pounds Overweight
-
-Display "Obese"[Y/N]? y
-Showing patients with the "Obese" status:
-Tom Baker             39 years  73.00 inches  229 pounds Obese
-Peter Pan             52 years  75.00 inches  270 pounds Obese
-William Peterson      54 years  70.00 inches  215 pounds Obese
-Tim South             64 years  72.00 inches  251 pounds Obese
-Andrew Davis          69 years  72.00 inches  254 pounds Obese
-
-Display "Normal"[Y/N]? y
-Showing patients with the "Normal" status:
-Victor Smith          19 years  71.00 inches  150 pounds Normal
-Mary Johnson          22 years  67.00 inches  135 pounds Normal
-Monica T. Potter      23 years  66.00 inches  135 pounds Normal
-Jane North            25 years  66.00 inches  120 pounds Normal
-Diana Newman          26 years  68.00 inches  133 pounds Normal
-Jim Gaddis            28 years  68.00 inches  143 pounds Normal
-George Paul Lucas     29 years  70.00 inches  144 pounds Normal
-Ann McDonald          33 years  71.00 inches  162 pounds Normal
-Mary Jane Doe         42 years  65.00 inches  130 pounds Normal
-
-Report saved in:  patientReport.txt
-*/
